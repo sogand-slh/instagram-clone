@@ -1,0 +1,17 @@
+.loader_logo {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  width: 100%;
+}
+
+.loader_splashscreen {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
