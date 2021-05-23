@@ -2,5 +2,5 @@
   margin-top: 10px;
 }
 .avatarGrpUsers {
-  overflow-x: hidden;
+  overflow-x: scroll;
 }
